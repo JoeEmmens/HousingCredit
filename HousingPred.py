@@ -1,5 +1,6 @@
 """
 A machine learning algorithm to predict if a person owns, rents or lives in their house for free.
+The training data is taken imported straight from GitHub so there is no need to download the csv file.
 Joe Emmens, 08/08/2020
 """
 
